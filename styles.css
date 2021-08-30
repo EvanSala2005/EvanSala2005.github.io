@@ -16,6 +16,14 @@ p {
 }
 
 p2 {
- ext-align:center; 
+ text-align:center; 
   font-size:100%;
+}
+
+p3 {
+ color:black;
+style="color:Black;
+text-align:center;
+ font-size:250%;
+ font-family:Times New Roman;
 }
