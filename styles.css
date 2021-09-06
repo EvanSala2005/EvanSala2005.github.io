@@ -42,3 +42,8 @@ img {
 width:450px;
 height:400px;
 }
+
+a:hover {
+  background-color: black;
+  color:White;
+}
