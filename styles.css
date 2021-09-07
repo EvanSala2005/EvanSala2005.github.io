@@ -1,4 +1,8 @@
 
+body { 
+ backround-color:#000000;
+}
+
 h1 {
  color:White;
  text-align:center;
@@ -40,8 +44,4 @@ a:hover {
 color:white;
   text-align:center;
   font-size:170%;
-}
-
-.myDiv2 {
-  backround-color:#000000;
 }
