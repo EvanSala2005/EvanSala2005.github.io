@@ -10,12 +10,6 @@ h1 {
  text-align:center;
 }
 
-h2 {
-color:white;
-  text-align:center;
-  font-size:170%;
-}
-
 p {
  color:White;
  text-align:center; 
@@ -46,4 +40,10 @@ height:400px;
 a:hover {
   background-color: black;
   color:White;
+}
+
+Info {
+color:white;
+  text-align:center;
+  font-size:170%;
 }
