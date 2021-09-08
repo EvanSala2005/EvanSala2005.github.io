@@ -22,9 +22,14 @@ text-align:center;
 }
 
 h4 {
- color:black;
+ color:red;
 font-size:250%;
 }
+
+#myH4 {
+   color:blue;
+font-size:250%;
+} 
 
 img {
 width:450px;
